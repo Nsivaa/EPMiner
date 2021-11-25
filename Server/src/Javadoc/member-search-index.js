@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mining","c":"ComparatorGrowRate","l":"ComparatorGrowRate()","url":"%3Cinit%3E()"},{"p":"mining","c":"ComparatorGrowRate","l":"compare(EmergingPattern, EmergingPattern)","url":"compare(mining.EmergingPattern,mining.EmergingPattern)"}]
