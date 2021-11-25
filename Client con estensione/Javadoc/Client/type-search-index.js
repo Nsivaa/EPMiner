@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.codice.clientgui","l":"ControllerConnessione"},{"p":"com.codice.clientgui","l":"ControllerInput"},{"p":"com.codice.clientgui","l":"ControllerMenu"},{"p":"com.codice.clientgui","l":"ControllerOutput"},{"p":"com.codice.clientgui","l":"Main"}];updateSearchResults();
