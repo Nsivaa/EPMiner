@@ -1,0 +1,26 @@
+.label{
+	  -fx-text-fill: #ffffff;
+	  -fx-font-family: "Lucida Console";
+	  -fx-font-size: 14;
+}
+
+.button{
+	-fx-background-color: #616161;
+	-fx-text-fill: #ffffff;
+	-fx-font-family: "Lucida Console";
+	-fx-font-size: 14;
+}
+
+.root{
+	-fx-background-color: #212121;
+}
+
+.text-area .content {
+	-fx-background-color: #EBECF0;
+	-fx-font-family: "Lucida Console";
+	-fx-font-size: 14;
+}
+
+.menu-item .label{
+    -fx-text-fill: BLACK;
+}
